@@ -14,4 +14,4 @@ More over, to run this project, you will need AlexNet weights. You can download 
 
 ## Explaination
 
-You can find an explaination of this code on my blog post [here]().
+You can find an explaination of this code on my blog post [here](https://medium.com/@muhammadmubeen/generating-adversarial-images-using-alexnet-924ecb78ba4f).
