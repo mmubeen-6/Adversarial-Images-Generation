@@ -7,7 +7,7 @@ This is a python3 based code that has been tested on python 3.5. Additionally it
 
  - Numpy
  - OpenCV
- - PyTorch
+ - PyTorch == 0.3
  - Matplotlib
 
 More over, to run this project, you will need AlexNet weights. You can download them from this [link](https://download.pytorch.org/models/alexnet-owt-4df8aa71.pth) and place them in the models directory.
